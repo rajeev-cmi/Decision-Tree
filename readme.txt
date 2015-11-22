@@ -7,7 +7,7 @@ H/W & S/W Specifications ::
 
 
 Source Codes ::
-
+	Data Set		:       http://www.cmi.ac.in/~madhavan/courses/datamining13-aug/assignment1/index.php
 	10-way_split.py		:	For splitting the data into 10 folds
 	Process.py		:	For processing the input data
 	DT-Classifier.py	:	For Decision Tree Classifier
